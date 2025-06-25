@@ -1,0 +1,7 @@
+slot_id,spot_id,lot_id,location,vehicle_number,cost,start_time,end_time
+1,1,1,"Connaught Place, Delhi",MX1234,20.0,2025-06-10 06:13:19,2025-06-10 06:29:22
+1,1,1,"Connaught Place, Delhi",MS8888,20.0,2025-06-10 06:31:18,2025-06-10 06:31:43
+1,1,1,"Connaught Place, Delhi",MS9999,5340.0,2025-06-10 06:33:14,2025-06-21 08:55:57
+4,4,2,"Navi Mumbai, Mumbai",P8888,0.0,2025-06-10 08:21:51,Still Parked
+2,2,1,"Connaught Place, Delhi",PD234,0.0,2025-06-21 08:55:51,Still Parked
+2,2,1,"Connaught Place, Delhi",MAY123,30.0,2025-05-21 08:45:30,2025-05-21 09:30:00
